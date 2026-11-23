@@ -1,4 +1,4 @@
-# Acertos por matéria – Estudo para o IF
+# Acertos por matéria – Estudo 
 
 Painel simples para registrar quantas questões foram feitas e quantas foram acertadas em cada matéria e assunto, separar estudos de simulados, acompanhar as notas de redação e ver a evolução até a prova.
 
